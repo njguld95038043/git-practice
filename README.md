@@ -1,1 +1,3 @@
 hoge
+
+Thanks a lot!
